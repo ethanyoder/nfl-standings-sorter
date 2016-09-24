@@ -2,7 +2,7 @@
     /*background-image: url("../Images/nfl.jpg");
     background-repeat: no-repeat;
     background-size: cover; */
-    font-family: Chiller;
+    font-family: 'Lucida Console';
 }
 
 h1.heading {
@@ -14,4 +14,9 @@ h1.heading {
 img.logo {
     max-height: 70%;
     max-width: 70%;
+}
+
+input.wlt {
+    max-height: 15px;
+    max-width: 35px;
 }
