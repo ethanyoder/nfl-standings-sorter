@@ -1,9 +1,17 @@
-﻿head {
-
+﻿body {
+    /*background-image: url("../Images/nfl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    font-family: Chiller;
 }
 
-div h1 {
-
+h1.heading {
+    table-layout: auto;
+    align-content: center;
+    font-size: xx-large;
 }
 
-
+img.logo {
+    max-height: 70%;
+    max-width: 70%;
+}
